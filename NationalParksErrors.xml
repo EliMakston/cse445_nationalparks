@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NationalPark>
+	<NationalPark Rating="4.9">
+		<Name>Grand Canyon</Name>
+		<Phone>928-638-7496</Phone>
+		<Phone>888-297-2757</Phone>
+		<Phone>866-499-2574</Phone>
+		<Address NearestAirport="FlagStaff">
+			<Number>8</Number>
+			<Street>S Entrace Road</Street>
+			<City>Grand Canyon</City>
+			<State>AZ</State>
+			<Zip>86023</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.8">
+		<Name>Yosemite</Name>
+		<Phone>209-372-0200</Phone>
+		<Address>
+			<Number>9035</Number>
+			<Street>Village Dr</Street>
+			<City>Yosemite National Park</City>
+			<State>CA</State>
+			<Zip>95289</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<Name>Joshua Tree</Name>
+		<Phone>760-367-5500</Phone>
+		<Address NearestAirport="PalmSprings">
+			<Number>74485</Number>
+			<Street>National Park Dr</Street>
+			<City>Twentynine Palms</City>
+			<State>CA</State>
+			<Zip>92277</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.8">
+		<Name>Yellowstone</Name>
+		<Phone>307-344-7381</Phone>
+		<Address NearestAirport="Yellowstone">
+			<Number>30</Number>
+			<Street>Yellowstone Ave</Street>
+			<City>West Yellowstone</City>
+			<State>MT</State>
+			<Zip>59758</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<Name>Arches</Name>
+		<Address NearestAirport="CanyonlandsField">
+			<Number>501</Number>
+			<Street>Arches Scenic Dr</Street>
+			<City>Moab</City>
+			<State>UT</State>
+			<Zip>84532</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<Name>Bryce Canyon</Name>
+		<Phone>435-834-5322</Phone>
+		<Address NearestAirport="BryceCanyon">
+			<Number>0</Number>
+			<Street>UT-63</Street>
+			<City>Bryce Canyon City</City>
+			<State>UT</State>
+			<Zip>84764</Zip>
+
+	</NationalPark>
+	<NationalPark>
+		<Name>Carlsbad Caverns</Name>
+		<Phone>575-785-2232</Phone>
+		<Address NearestAirport="ElPasoInternational">
+			<Number>727</Number>
+			<Street>Carlsbad Cavern Hwy</Street>
+			<City>Carlsbad</City>
+			<State>NM</State>
+			<Zip>88220</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.8">
+		<Name>Mesa Verde</Name>
+		<Name>Mesa Verde National Park</Name>
+		<Phone>970-529-4465</Phone>
+		<Address NearestAirport="Durango-LaPlataCounty">
+			<Number>35795</Number>
+			<Street>US Highway 160</Street>
+			<City>Moncos</City>
+			<State>CO</State>
+			<Zip>81328</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<Name>Redwood</Name>
+		<Phone>707-464-6101</Phone>
+		<Address NearestAirport="DelNorteCounty">
+			<Number>1111</Number>
+			<Street>Second Street</Street>
+			<City>Crescent City</City>
+			<State>CA</State>
+			<Zip>95531</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<Name>Zion</Name>
+		<Phone>435-772-3256</Phone>
+		<Address NearestAirport="St.GeorgeRegional">
+			<Number>1</Number>
+			<Street>Zion Park Blvd</Street>
+			<City>Springdale</City>
+			<State>UT</State>
+			<Zip>84767</Zip>
+		</Address>
+	</NationalPark>
+</NationalPark>
